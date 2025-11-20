@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a1e8083a65312b4459e3d223e216a095
+  productGUID: 28f0dfe94a11d08459a69b898cfb8c0c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Build a Brain
+  productName: BaB
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -841,14 +841,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Build a Brain
+  metroPackageName: BaB
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Build a Brain
+  metroApplicationDescription: BaB
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -919,10 +919,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 95ac3378-408f-414c-98e5-61d324c5a7ac
+  cloudProjectId: ded54cb8-cca6-4ce8-957f-0727862ef31b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Build a Brain
+  projectName: BaB 2025-11-20_16-30-08
   organizationId: sara0029
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
