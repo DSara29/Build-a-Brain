@@ -977,7 +977,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 584495884}
   lines:
-  - "A figure steps forward: Dr. Brenner, Chief Curator of the Neuroforge Institute,
+  - "A figure steps forward: Dr. Stein, Chief Curator of the Neuroforge Institute,
     the secretive facility you\u2019ve just been recruited to join. His coat is lined
     with faint circuitry, his eyes carrying both brilliance and exhaustion."
   - "\"Welcome, Architect. You\u2019ve been expected.\""
