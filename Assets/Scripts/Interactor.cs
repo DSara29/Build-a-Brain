@@ -26,7 +26,7 @@ public class Interactor : MonoBehaviour
             {
                 //Debug.Log("sdfkjsdf");
                 //hitInfo.collider.gameObject.TryGetComponent<NumberGenerator>().interact();
-                if (hitInfo.collider.gameObject.TryGetComponent(out NumberGenerator interactObj))
+                if (hitInfo.collider.gameObject.TryGetComponent(out LTL_Animate interactObj))
                 {
                     interactObj.interact();
                 }
